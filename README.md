@@ -48,7 +48,7 @@ This project implements a Speech Emotion Recognition system using deep learning 
 - Visualized the model’s performance and accuracy through various plots to assess effectiveness.
 
 ## Results
-The model achieved a notable accuracy in classifying emotions from speech data. Detailed results, including accuracy metrics and visualizations, can be found in the `results` folder.
+The model achieved a notable accuracy in classifying emotions from speech data.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
