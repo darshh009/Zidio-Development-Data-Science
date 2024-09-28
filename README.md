@@ -66,4 +66,4 @@ For any feedback or questions, feel free to [contact me](mailto:darshhwork@gmail
 ## Download or Clone
 You can download or clone this project from GitHub:
 ```bash
-git clone https://github.com/darshh009/digit-recognition.git
+git clone https://github.com/darshh009/Zidio-Development-Data-Science/blob/master/digit_recognition.ipynb
