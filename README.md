@@ -62,4 +62,5 @@ For any feedback or questions, feel free to [contact me](mailto:darshhwork@gmail
 ## Download or Clone
 You can download or clone this project from GitHub:
 ```bash
-git clone https://github.com/darshh009/speech-emotion-recognition.git
+git clone https://github.com/darshh009/
+Zidio-Development-Data-Science/speech-emotion-recognition.git
